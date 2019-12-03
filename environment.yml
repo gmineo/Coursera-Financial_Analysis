@@ -14,4 +14,5 @@ dependencies:
   - scipy
   - ipython
   - jupyter
+  - pandas.tools
 
