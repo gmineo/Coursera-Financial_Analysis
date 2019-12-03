@@ -14,5 +14,6 @@ dependencies:
   - scipy
   - ipython
   - jupyter
+  - pandas.plotting
   
 
