@@ -14,6 +14,7 @@ dependencies:
   - scipy
   - ipython
   - jupyter
+  - sklearn 
   
   
 
