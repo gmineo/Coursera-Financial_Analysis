@@ -14,9 +14,4 @@ dependencies:
   - scipy
   - ipython
   - jupyter
-  - statsmodels
   - pytest 
- 
-  
-  
-
