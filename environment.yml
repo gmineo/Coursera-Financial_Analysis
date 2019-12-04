@@ -15,5 +15,5 @@ dependencies:
   - ipython
   - jupyter 
   - pip
-  pip: 
-    pip install statsmodels
+  - pip: 
+    - statsmodels
